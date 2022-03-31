@@ -10,6 +10,7 @@ This is a collection of useful resources for machine learning techniques applied
 - [fbpic](https://github.com/fbpic/fbpic)
 - [signac](https://github.com/glotzerlab/signac)
 - [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize)
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [botorch](https://github.com/pytorch/botorch)
 - [optuna](https://github.com/optuna/optuna)
 - [neural solvers](https://github.com/ComputationalRadiationPhysics/NeuralSolvers)
