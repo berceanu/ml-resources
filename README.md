@@ -7,3 +7,4 @@ This is a collection of useful resources for machine learning techniques applied
 
 ## Published papers
  [Automation and control of laser wakefield accelerators using Bayesian optimization](https://doi.org/10.1038/s41467-020-20245-6)
+ [Bayesian Optimization of a Laser-Plasma Accelerator](https://doi.org/10.1103/PhysRevLett.126.104801)
